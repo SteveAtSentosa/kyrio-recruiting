@@ -9,7 +9,6 @@
 ## Lucas Hubner
 
 `Summary`
-* email: lucasguilhermehub@gmail.com
 * Location: Brazil
 * BS and MS in Computer Science
 * 7 years embeeded development experience
@@ -29,6 +28,8 @@
 * [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Lucas-Hubner.pdf)
 * [Linkedin](https://www.linkedin.com/in/lucashubner/)
 
+`Contact Info`
+* lucasguilhermehub@gmail.com
 
 ## Franciso Biaso
 
