@@ -18,7 +18,7 @@
 
 `CV`
 
-* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/sentosa-resume-Lucas-Hubner.pdf)
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Lucas-Hubner.pdf)
 * [Linkedin](https://www.linkedin.com/in/lucashubner/)
 
 
@@ -40,7 +40,7 @@
 
 `CV`
 
-* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/sentosa-resume-Francisco-Biaso.pdf)
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Francisco-Biaso.pdf)
 * [Linkedin](https://www.linkedin.com/in/francisco-biaso-software-developer/?originalSubdomain=br)
 
 # iOS Candidates
@@ -69,7 +69,7 @@
 
 `CV`
 
-* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/sentosa-resume-allan_alves.pdf)
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Allan_Alves.pdf)
 * [Linkedin](https://www.linkedin.com/in/alvesallan/?originalSubdomain=br)
 
 
@@ -97,5 +97,5 @@
 
 `CV`
 
-* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/sentosa-resume-Gerson-Arbigaus.pdf)
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Gerson-Arbigaus.pdf)
 * [Linkedin](https://www.linkedin.com/in/arbigaus/)
