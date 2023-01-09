@@ -125,8 +125,8 @@
 
 
 `Bottom Line`
-* Mark is a veteran of the cable industry, with plenty of RDK B development expeirence,
-* Mark has other embeddeddevelopment experience as well
+* Mark is a veteran of the cable industry, with plenty of RDK B development expeirence
+* Mark has other embedded development experience as well
 * He is extremely easy going, and great to work with
 
 `CV`
