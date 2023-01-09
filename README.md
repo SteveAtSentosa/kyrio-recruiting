@@ -2,8 +2,46 @@
 
 ## Lucas Hubner
 
+* Location: Brazil
+* BS and MS in Computer Science
+* 7 years embeeded development experience
+* Teaches software engineering at the University Level
+* Experinece with OpenWRT and inter-board sockets communications
+* He did very well on the live the coding problems 
+* He did very well Coin Machine Logic Question
+* English is excellent
+* I really liked his personaitly, he was easy going, and lots of fun
+* Rate $45/hr
+
+`Bottom Line`
+* I think Lucas is great.  He would be my first choice for an interview for embedded developer
+
+`CV`
+
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/sentosa-resume-Lucas-Hubner.pdf)
+* [Linkedin](https://www.linkedin.com/in/lucashubner/)
+
+
 ## Franciso Biaso
 
+* Location: Brazil
+* BS Computer Science
+* 3 years embeeded development experience
+* Top 10% certications in C++ and Algorithms
+* He knocked the live coding problems out of the park
+* He struggled a bit with the Coin Machine problem
+* English is reasonaable, but possibly a bit of a communicaitons barrier there
+* I liked his personaitly, but he was pretty nervous during the interview (which I understand)
+* Rate $45/hr
+
+`Bottom Line`
+* I think that Fanciso would do very well, his coding skills are outstanding
+* His experience level and English are not at the same level as Lucas's
+
+`CV`
+
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/sentosa-resume-Francisco-Biaso.pdf)
+* [Linkedin](https://www.linkedin.com/in/francisco-biaso-software-developer/?originalSubdomain=br)
 
 # iOS Candidates
 
@@ -31,7 +69,7 @@
 
 `CV`
 
-* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/allen-alves/sentosa-resume-allan_alves.pdf)
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/sentosa-resume-allan_alves.pdf)
 * [Linkedin](https://www.linkedin.com/in/alvesallan/?originalSubdomain=br)
 
 
@@ -55,9 +93,9 @@
 * [Clube Gazeta](https://apps.apple.com/br/app/clube-gazeta/id1278740906)
 
 `Bottom Line`
-* I also really like Gerson allot. He is viewing this opportunity as an adventure, and in my exporeince those types of folks are great to have on the team
+* I also like Gerson allot. He is viewing this opportunity as an adventure, and in my exporeince those types of folks are great to have on the team
 
 `CV`
 
-* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/gerson-arbigaus/sentosa-resume-Gerson-Arbigaus.pdf)
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/sentosa-resume-Gerson-Arbigaus.pdf)
 * [Linkedin](https://www.linkedin.com/in/arbigaus/)
