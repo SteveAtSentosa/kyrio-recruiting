@@ -72,8 +72,6 @@
 * [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Allan-Alves.pdf)
 * [Linkedin](https://www.linkedin.com/in/alvesallan/?originalSubdomain=br)
 
-
-
 ## Gerson Arbigaus
 
 `Summary`
