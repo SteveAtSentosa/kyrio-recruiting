@@ -131,7 +131,7 @@
 
 `CV`
 
-* [Resume]()
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Mark-Millard.pdf)
 * [Linkedin](https://www.linkedin.com/in/mark-millard-2284167/)
 
 
