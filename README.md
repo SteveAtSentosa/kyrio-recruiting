@@ -9,6 +9,7 @@
 ## Lucas Hubner
 
 `Summary`
+* email: lucasguilhermehub@gmail.com
 * Location: Brazil
 * BS and MS in Computer Science
 * 7 years embeeded development experience
