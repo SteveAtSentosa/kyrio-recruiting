@@ -43,7 +43,7 @@
 * Rate $45/hr
 
 `Bottom Line`
-* I think that Fanciso would do very well, his coding skills are outstanding
+* I think that Francisco would do very well, his coding skills are outstanding
 * His experience level and English are not at the same level as Lucas's
 
 `CV`
