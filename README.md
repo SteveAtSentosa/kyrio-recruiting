@@ -1,3 +1,9 @@
+# Index
+
+* [Embedded Candidates](#embedded-candidates)
+* [iOS Candidates](#ios-candidates)
+* [RDK Candidates](#rdk-candidates)
+
 # Embedded Candidates
 
 ## Lucas Hubner
@@ -97,3 +103,35 @@
 
 * [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Gerson-Arbigaus.pdf)
 * [Linkedin](https://www.linkedin.com/in/arbigaus/)
+
+
+# RDK Candidates
+
+## Mark Millard
+
+`Summary`
+* Location: Colorado
+* BS Computer Science
+* Seasoned developer, with plenty of RDK development experience
+* I worked along side Mark for several years. He iseasy going, pleasant to work with, and he lways got the job done.
+* Rate somthing like $100/hr
+
+`RDK Experience`
+* Port of RDK-B components (CCSP and Open Source) to Arris Gateway for Time-Warner Cable.
+* Ported RDK-B to Broadcom reference STB to demonstrate use of RDK-B for device command and control.
+* Designed and implemented an RDK based Remote Management System for Charter
+* Wrote ActiveVideo thin-client app, running on Charter's RDK stack
+* etc ...
+
+
+`Bottom Line`
+* Mark is a veteran of the cable industry, with plenty of RDK B development expeirence,
+* Mark has other embeddeddevelopment experience as well
+* He is extremely easy going, and great to work with
+
+`CV`
+
+* [Resume]()
+* [Linkedin](https://www.linkedin.com/in/mark-millard-2284167/)
+
+
