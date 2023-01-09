@@ -8,6 +8,7 @@
 
 ## Lucas Hubner
 
+`Summary`
 * Location: Brazil
 * BS and MS in Computer Science
 * 7 years embeeded development experience
@@ -30,6 +31,7 @@
 
 ## Franciso Biaso
 
+`Summary`
 * Location: Brazil
 * BS Computer Science
 * 3 years embeeded development experience
