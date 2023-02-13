@@ -15,13 +15,15 @@
 * Has experience with a wide varieties of technologies
 * Currently working on device that coordinates with smart watches for energy optimization
 * He did well on the live the coding problems
-* He did well Coin Machine Logic Question
+* He did well on the Coin Machine Logic Question
 * English is very good
 * Extremely pleasant personality, and fun to interact with
-* Rate $XXXX/hr
+* Marcelo has personal commitments on Fridays, and asked if working Mon-Thurs, 10 hour days, would be workable.
+* Rate $70/hr
 
 `Bottom Line`
-* I think Marceo is great.  His combination of personality, specific experience, and diverse background are really appealing
+* I think Marcelo is great.  His combination of personality, specific experience, and diverse background are really appealing
+* Marcelo's rate is higher than the others, but he did express some flexability
 
 `CV`
 * [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Marcelo-Aleksandravicius.pdf)
@@ -43,7 +45,7 @@
 * He did quite well with the the Coin Machine problem
 * English is very good
 * Very energetic personality, fun to interact with
-* Rate $XX/hr
+* Rate $45/hr
 
 `Bottom Line`
 * Henrique's english was very easy to understand, and his coding is solid, a nice combination.
@@ -68,7 +70,7 @@
 * He did well with the the Coin Machine problem
 * English is not as good as the others
 * Very pleasant personality, and very enthusiastic about ebmedded developement
-* Rate $XX/hr
+* Rate $45/hr
 
 `Bottom Line`
 * Jody's perosnality and skills are very strong.  The one issue is that his english is a bit rougth.
