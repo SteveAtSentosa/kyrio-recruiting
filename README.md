@@ -6,52 +6,79 @@
 
 # Embedded Candidates
 
-## Lucas Hubner
+## Marcelo Aleksandravicius
 
 `Summary`
 * Location: Brazil
-* BS and MS in Computer Science
-* 7 years embeeded development experience
-* Teaches software engineering at the University Level
-* Experinece with OpenWRT and inter-board sockets communications
-* He did very well on the live the coding problems 
-* He did very well Coin Machine Logic Question
-* English is excellent
-* I really liked his personaitly, he was easy going, and lots of fun
-* Rate $45/hr
+* BS in Computer Science
+* 15 years C/C++ experience, 8 years embedded development experience
+* Has experience with a wide varieties of technologies
+* Currently working on device that coordinates with smart watches for energy optimization
+* He did well on the live the coding problems
+* He did well Coin Machine Logic Question
+* English is very good
+* Extremely pleasant personality, and fun to interact with
+* Rate $XXXX/hr
 
 `Bottom Line`
-* I think Lucas is great.  He would be my first choice for an interview for embedded developer
+* I think Marceo is great.  His combination of personality, specific experience, and diverse background are really appealing
 
 `CV`
-
-* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Lucas-Hubner.pdf)
-* [Linkedin](https://www.linkedin.com/in/lucashubner/)
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Marcelo-Aleksandravicius.pdf)
+* [Linkedin](https://www.linkedin.com/in/marcelo-aleks/)
 
 `Contact Info`
-* lucasguilhermehub@gmail.com
+* marcelo.aleks@gmail.com
 
-## Franciso Biaso
+
+## Henrique Klein
 
 `Summary`
 * Location: Brazil
 * BS Computer Science
-* 3 years embeeded development experience
-* Top 10% certications in C++ and Algorithms
-* He knocked the live coding problems out of the park
-* He struggled a bit with the Coin Machine problem
-* English is reasonaable, but possibly a bit of a communicaitons barrier there
-* I liked his personaitly, but he was pretty nervous during the interview (which I understand)
-* Rate $45/hr
+* 9 years embeeded development experience
+* Currently serving at Tech Lead for system level filesystem interactions
+* Past project includes working on Ethernet Abstraction Layer
+* He did well on the live coding problems
+* He did quite well with the the Coin Machine problem
+* English is very good
+* Very energetic personality, fun to interact with
+* Rate $XX/hr
 
 `Bottom Line`
-* I think that Francisco would do very well, his coding skills are outstanding
-* His experience level and English are not at the same level as Lucas's
+* Henrique's english was very easy to understand, and his coding is solid, a nice combination.
 
 `CV`
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Henrique-Klein.pdf)
+* [Linkedin](https://www.linkedin.com/in/henriqueawklein/)
 
-* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Francisco-Biaso.pdf)
-* [Linkedin](https://www.linkedin.com/in/francisco-biaso-software-developer/?originalSubdomain=br)
+`Contact Info`
+* henryaklein@gmail.com
+
+
+## Jody Tanaka
+
+`Summary`
+* Location: Brazil
+* BS Computer Engineering
+* 15 years of embeeded development experience
+* Has experience with OpenWRT, interacting with Wifi Systems
+* Currently working on Set Top Box embedded linux project
+* He did well on the live coding problems
+* He did well with the the Coin Machine problem
+* English is not as good as the others
+* Very pleasant personality, and very enthusiastic about ebmedded developement
+* Rate $XX/hr
+
+`Bottom Line`
+* Jody's perosnality and skills are very strong.  The one issue is that his english is a bit rougth.
+
+`CV`
+* [Resume](https://github.com/SteveAtSentosa/kyrio-recruiting/blob/master/resumes/sentosa-resume-Jody-Tanaka.pdf)
+* [Linkedin](https://www.linkedin.com/in/jodytanaka/)
+
+`Contact Info`
+* alissonjody@gmail.com
 
 # iOS Candidates
 
