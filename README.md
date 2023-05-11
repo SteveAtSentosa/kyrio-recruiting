@@ -19,7 +19,7 @@
 * English is very good
 * Extremely pleasant personality, and fun to interact with
 * Marcelo has personal commitments on Fridays, and asked if working Mon-Thurs, 10 hour days, would be workable.
-* Rate $70/hr
+* Rate $65-70/hr
 
 `Bottom Line`
 * I think Marcelo is great.  His combination of personality, specific experience, and diverse background are really appealing
